@@ -1,30 +1,84 @@
 # Luxtra
 
-> *Building beyond the light*
-
-Luxtra is an engineering collective pursuing end-to-end technical coverage. We build products, develop and contribute to open source, and push the boundaries of modern technology — spanning systems, backend, frontend, mobile, MLOps, security, and data.
-
-> **Lux** (light) + **Extra** (beyond) — We go past what's known and build what comes next.
+**Think. Build. Ship.**  
+_We're odd._
 
 ---
 
-### What We Do
+Luxtra is a small engineering collective competing at hackathons and building what comes next.
 
-![E2E Coverage](https://img.shields.io/badge/E2E_Coverage-7C3AED?style=flat-square) We work across every layer of the stack, from infrastructure to user interface.
+**Lux** (light) + **Extra** (beyond) — we go past what's known and build what follows.
 
-![Open Source](https://img.shields.io/badge/Open_Source-FF3CAC?style=flat-square) We develop and contribute to open source, sharing our knowledge and code with the community.
+> **This is our lifetime.**
 
-![Ship It](https://img.shields.io/badge/Ship_It-2B86C5?style=flat-square) Research and experiments become real products.
+---
 
-![Modern Stack](https://img.shields.io/badge/Modern_Stack-00C896?style=flat-square) We don't limit ourselves to a single language or framework. If a technology is the right tool for the job, we learn it, use it, and master it.
+### Values
+
+| | |
+|---|---|
+| **People Before Skill** | Character before credentials. |
+| **Grit to Learn** | Willingness to learn is the standard. |
+| **Context Decides** | No fixed playbook. We read the room. |
+| **Process Proves** | The reasoning behind the work is the capability itself. |
+
+---
+
+### Where We Are
+
+**Now** — Competing at hackathons and competitions. Building a name through results.  
+**Next** — Productizing what we've proven. Automation agents, B2B/AI SaaS — wide open.  
+**Later** — Open source contribution, public products — follows from reputation.
 
 ---
 
 ### Join
 
-> We value **growth mindset** and **learning velocity** above all else.
+We care about **growth mindset** and **learning velocity** over credentials.
 
-Interested? Reach out at **pablo@luxtra.dev**
+Reach out at **pablo@luxtra.dev**
+
+---
+
+<sub>© 2026 Luxtra · [luxtra.dev](https://luxtra.dev)</sub># Luxtra
+
+**Think. Build. Ship.**  
+_We're odd._
+
+---
+
+Luxtra is a small engineering collective competing at hackathons and building what comes next.
+
+**Lux** (light) + **Extra** (beyond) — we go past what's known and build what follows.
+
+> **This is our lifetime.**
+
+---
+
+### Values
+
+| | |
+|---|---|
+| **People Before Skill** | Character before credentials. |
+| **Grit to Learn** | Willingness to learn is the standard. |
+| **Context Decides** | No fixed playbook. We read the room. |
+| **Process Proves** | The reasoning behind the work is the capability itself. |
+
+---
+
+### Where We Are
+
+**Now** — Competing at hackathons and competitions. Building a name through results.  
+**Next** — Productizing what we've proven. Automation agents, B2B/AI SaaS — wide open.  
+**Later** — Open source contribution, public products — follows from reputation.
+
+---
+
+### Join
+
+We care about **growth mindset** and **learning velocity** over credentials.
+
+Reach out at **pablo@luxtra.dev**
 
 ---
 
